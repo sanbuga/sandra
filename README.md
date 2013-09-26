@@ -1,1 +1,6 @@
-Hola soy Sandra soy ingeniero de telecomunicaciones tengo 29 años y me gusta el deporte 
+<nombre>Sandra</nombre>
+<edad>27</edad>
+<ocio>basket,depot</ocio>
+<carrera>ingniera telecomunicacion</carrera>
+
+ 
