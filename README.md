@@ -1,3 +1,6 @@
-Nombre: Sandra Bustos
-Edad: 29
-Carrera: Ing Telecomunicaciones
+<nombre>Sandra</nombre>
+<edad>27</edad>
+<ocio>basket,depot</ocio>
+<carrera>ingniera telecomunicacion</carrera>
+
+
